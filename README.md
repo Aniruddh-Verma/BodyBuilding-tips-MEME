@@ -1,3 +1,6 @@
 # BodyBuilding-tips-MEME
+* Made this Page to Understand the layout, Structure and Syntax of HTML,CSS 
+* Future updates will be based on my learning...
  
-![image](https://user-images.githubusercontent.com/109864611/215266301-2b757e2c-686d-4821-b91b-73b1c4ddb946.png)
+![image](https://user-images.githubusercontent.com/109864611/215283586-4f791af6-6669-40c7-b4dc-20feff255043.png)
+
